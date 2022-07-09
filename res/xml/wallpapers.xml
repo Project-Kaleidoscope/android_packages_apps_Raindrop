@@ -15,4 +15,10 @@
     limitations under the License.
 -->
 <wallpapers>
+    <category id="kscope_art" title="@string/kscope_art">
+        <static-wallpaper
+            id="kscope_art"
+            src="@drawable/kaleidoscope"
+            title="@string/kscope_art"/>
+    </category>
 </wallpapers>
